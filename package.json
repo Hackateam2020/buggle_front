@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,11 @@
   "homepage": "https://github.com/Hackateam2020/buggle_front#readme",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
+<<<<<<< HEAD
     "google-search-results-nodejs": "^2.0.0",
+=======
+    "jest": "^26.5.3",
+>>>>>>> 1ca38089449976a52071a933f3339d4e2229d226
     "parcel": "^1.12.4",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
