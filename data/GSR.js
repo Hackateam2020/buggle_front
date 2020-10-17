@@ -1,5 +1,5 @@
 const GSR = require("google-search-results-nodejs");
-const client = new GSR.GoogleSearchResults("secret_api_key");
+const client = new GSR.GoogleSearchResults(process.env.GOOGLE_API);
 
 const params = {
   engine: "google_maps",
