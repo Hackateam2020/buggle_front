@@ -1,0 +1,561 @@
+{
+    "search_metadata":
+    {
+        "id": "5f8b26a5b4d62e16332bd56d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/252ae4681b612b5c/5f8b26a5b4d62e16332bd56d.json",
+        "created_at": "2020-10-17 17:15:17 UTC",
+        "processed_at": "2020-10-17 17:15:17 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/restaurante+peru/@40.7455096,-74.0083012,14z?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/252ae4681b612b5c/5f8b26a5b4d62e16332bd56d.html",
+        "total_time_taken": 1.09
+    }
+    ,
+    "search_parameters":
+    {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "restaurante peru",
+        "ll": "@40.7455096,-74.0083012,14z",
+        "google_domain": "google.com",
+        "hl": "en"
+    }
+    ,
+    "search_information":
+    {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "restaurante peru"
+    }
+    ,
+    "local_results":
+    [
+        {
+            "position": 1,
+            "title": "Peru Pa' Ti",
+            "data_id": "0x89c25781a28f6e1f:0x1ff63b37a4232455",
+            "gps_coordinates":
+            {
+                "latitude": 40.7643577,
+                "longitude": -74.03436889999999
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c25781a28f6e1f%3A0x1ff63b37a4232455%218m2%213d40.7643577%214d-74.03436889999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.5,
+            "reviews": 141,
+            "type": "Peruvian restaurant",
+            "address": "1904 Bergenline Ave, Union City, NJ 07087",
+            "hours": "Open until 8:30 PM",
+            "phone": "(201) 744-6542",
+            "website": "https://facebook.com/perupatirestaurant",
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 2,
+            "title": "Panca",
+            "data_id": "0x89c25993825a175b:0x636fab46aa4ee18a",
+            "gps_coordinates":
+            {
+                "latitude": 40.7328724,
+                "longitude": -74.00349299999999
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c25993825a175b%3A0x636fab46aa4ee18a%218m2%213d40.7328724%214d-74.00349299999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.2,
+            "reviews": 424,
+            "price": "$$",
+            "type": "Peruvian restaurant",
+            "address": "92 7th Ave S, New York, NY 10014",
+            "hours": "Open until 12:00 AM",
+            "phone": "(212) 488-3900",
+            "website": "http://www.pancany.com/",
+            "description": "Peruvian cuisine. West Village residents rely on this small Peruvian eatery for its ceviche, tiraditos & pisco sours.",
+            "service_options":
+            {
+                "dine_in": true,
+                "curbside_pickup": true,
+                "no_contact_delivery": true
+            }
+            ,
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 3,
+            "title": "Baby Brasa",
+            "data_id": "0x89c25995d0451d11:0xc26b2ed8cbc91d37",
+            "gps_coordinates":
+            {
+                "latitude": 40.7359703,
+                "longitude": -74.0012344
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c25995d0451d11%3A0xc26b2ed8cbc91d37%218m2%213d40.7359703%214d-74.0012344&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.3,
+            "reviews": 888,
+            "price": "$$",
+            "type": "Peruvian restaurant",
+            "address": "173 7th Ave S, New York, NY 10014",
+            "hours": "Open until 11:00 PM",
+            "phone": "(646) 590-9010",
+            "website": "http://www.babybrasa.com/",
+            "description": "Peruvian rotisserie chicken place. Peruvian spot for organic rotisserie chicken, sides, salads & sandwiches, plus cocktails.",
+            "service_options":
+            {
+                "dine_in": true,
+                "takeout": true,
+                "delivery": true
+            }
+            ,
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 4,
+            "title": "Mancora",
+            "data_id": "0x89c2599cd711d2c5:0x17b8b65fb4e1c725",
+            "gps_coordinates":
+            {
+                "latitude": 40.7263977,
+                "longitude": -73.9863958
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c2599cd711d2c5%3A0x17b8b65fb4e1c725%218m2%213d40.7263977%214d-73.9863958&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 3.9,
+            "reviews": 245,
+            "price": "$$",
+            "type": "Peruvian restaurant",
+            "address": "97 1st Avenue, New York, NY 10003",
+            "hours": "Open until 12:00 AM",
+            "phone": "(212) 253-1011",
+            "website": "https://www.mancora97nyc.com/",
+            "description": "Peruvian restaurant & bar. Traditional Peruvian dishes & a popular rotisserie chicken are served at this simple candlelit spot.",
+            "service_options":
+            {
+                "dine_in": false,
+                "takeout": true,
+                "no_contact_delivery": true
+            }
+            ,
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 5,
+            "title": "Riko Chelsea",
+            "data_id": "0x89c259b1d09b5ea9:0x3224b65236e9e827",
+            "gps_coordinates":
+            {
+                "latitude": 40.7500004,
+                "longitude": -73.9952788
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c259b1d09b5ea9%3A0x3224b65236e9e827%218m2%213d40.7500004%214d-73.9952788&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.1,
+            "reviews": 533,
+            "price": "$$",
+            "type": "Peruvian restaurant",
+            "address": "409 8th Ave, New York, NY 10001",
+            "hours": "Open until 12:00 AM",
+            "phone": "(212) 643-7555",
+            "website": "http://www.rikoperuviancuisine.com/",
+            "description": "Casual chicken-centric Peruvian eatery. Branch of a Peruvian mini-chain specializing in rotisserie chicken served in casual surrounds.",
+            "service_options":
+            {
+                "dine_in": false,
+                "takeout": true,
+                "no_contact_delivery": true
+            }
+            ,
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 6,
+            "title": "El Gordo",
+            "data_id": "0x89c2576a7ed11d93:0x1e81ba59b2b5de2d",
+            "gps_coordinates":
+            {
+                "latitude": 40.7450379,
+                "longitude": -74.0502422
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c2576a7ed11d93%3A0x1e81ba59b2b5de2d%218m2%213d40.7450379%214d-74.0502422&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.4,
+            "reviews": 414,
+            "price": "$$",
+            "type": "Peruvian restaurant",
+            "address": "291 Central Ave, Jersey City, NJ 07307",
+            "hours": "Open until 10:00 PM",
+            "phone": "(201) 706-3425",
+            "website": "https://elgordoeats.com/",
+            "service_options":
+            {
+                "dine_in": false,
+                "takeout": true,
+                "no_contact_delivery": true
+            }
+            ,
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 7,
+            "title": "Pio Pio 8",
+            "data_id": "0x89c258520c70f5bd:0x53118c036f1b6ab5",
+            "gps_coordinates":
+            {
+                "latitude": 40.7605535,
+                "longitude": -73.9945268
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c258520c70f5bd%3A0x53118c036f1b6ab5%218m2%213d40.7605535%214d-73.9945268&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.4,
+            "reviews": 3347,
+            "price": "$$",
+            "type": "Peruvian restaurant",
+            "address": "604 10th Ave, New York, NY 10036",
+            "hours": "Open until 12:00 AM",
+            "phone": "(212) 459-2929",
+            "website": "https://www.piopio.com/locations/hells_kitchen.html",
+            "description": "Peruvian rotisserie chicken specialist. Casual Peruvian restaurant specializing in rotisserie chicken with homemade sauce.",
+            "editorial_reviews":
+            {
+                "summary": "Where To Go When You Want A Really Good Roast Chicken",
+                "link": "https://www.theinfatuation.com/new-york/guides/best-roast-chicken-nyc"
+            }
+            ,
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 8,
+            "title": "Sol Chicken",
+            "data_id": "0x89c25787f16a7c3f:0xf058d5711061249d",
+            "gps_coordinates":
+            {
+                "latitude": 40.770844,
+                "longitude": -74.03041999999999
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c25787f16a7c3f%3A0xf058d5711061249d%218m2%213d40.770844%214d-74.03041999999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 3.9,
+            "reviews": 217,
+            "price": "$$",
+            "type": "Peruvian restaurant",
+            "address": "2903 Bergenline Ave, Union City, NJ 07087",
+            "hours": "Open until 11:00 PM",
+            "phone": "(201) 617-0019",
+            "website": "http://solchickenrestaurant.com/",
+            "description": "Laid-back destination known for chicken. Warm Peruvian cafe with South American art, faux-stone paneling & a menu emphasizing chicken.",
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 9,
+            "title": "Inti",
+            "data_id": "0x89c2585a24a2f3ff:0x32a68b9be853ade9",
+            "gps_coordinates":
+            {
+                "latitude": 40.767416399999995,
+                "longitude": -73.98945359999999
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c2585a24a2f3ff%3A0x32a68b9be853ade9%218m2%213d40.767416399999995%214d-73.98945359999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4,
+            "reviews": 283,
+            "price": "$$",
+            "type": "Peruvian restaurant",
+            "address": "820 10th Ave, New York, NY 10019",
+            "hours": "Open until 11:00 PM",
+            "phone": "(646) 596-9216",
+            "website": "http://www.intinyc.com/",
+            "description": "Rotisserie chicken & other Peruvian fare. Snug Peruvian eatery with ceviche, rotisserie chicken & other classic dishes plus lunch specials.",
+            "service_options":
+            {
+                "dine_in": true,
+                "curbside_pickup": true,
+                "no_contact_delivery": true
+            }
+            ,
+            "editorial_reviews":
+            {
+                "summary": "Where To Get Affordable Takeout In NYC",
+                "link": "https://www.theinfatuation.com/new-york/guides/cheap-delivery-nyc"
+            }
+            ,
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 10,
+            "title": "El Rinkoncito Peruano",
+            "data_id": "0x89c2576e58e21d5d:0xe070b00e23f09793",
+            "gps_coordinates":
+            {
+                "latitude": 40.7517278,
+                "longitude": -74.04566419999999
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c2576e58e21d5d%3A0xe070b00e23f09793%218m2%213d40.7517278%214d-74.04566419999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4,
+            "reviews": 204,
+            "price": "$",
+            "type": "Peruvian restaurant",
+            "address": "501 Central Ave, Jersey City, NJ 07307",
+            "hours": "Open until 9:00 PM",
+            "phone": "(201) 963-4800",
+            "website": "http://www.elrinkoncitoperuano.com/",
+            "description": "Peruvian classics in a little cafe. Tiny storefront with a few tables, offering ceviches, seafood, grilled meats & other Peruvian fare.",
+            "service_options":
+            {
+                "dine_in": false,
+                "takeout": true,
+                "no_contact_delivery": true
+            }
+            ,
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 11,
+            "title": "Pio Pio",
+            "data_id": "0x89c259060e55719d:0x7f2bb92a19d8285b",
+            "gps_coordinates":
+            {
+                "latitude": 40.745351299999996,
+                "longitude": -73.97764029999999
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c259060e55719d%3A0x7f2bb92a19d8285b%218m2%213d40.745351299999996%214d-73.97764029999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.4,
+            "reviews": 784,
+            "price": "$$",
+            "type": "Peruvian restaurant",
+            "address": "210 E 34th St, New York, NY 10016",
+            "hours": "Open until 11:00 PM",
+            "phone": "(212) 481-0034",
+            "website": "https://www.piopio.com/locations/kips_bay.html",
+            "description": "Peruvian rotisserie chicken specialist. Casual Peruvian restaurant specializing in rotisserie chicken with homemade sauce.",
+            "editorial_reviews":
+            {
+                "summary": "Murray Hill: Top 10 Date Night Picks",
+                "link": "https://idktonight.com/guide/murray-hill-idk-tonights-top-10-date-night-picks"
+            }
+            ,
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 12,
+            "title": "Kikiriki",
+            "data_id": "0x89c257872910b53f:0x28e41d7dc8533b73",
+            "gps_coordinates":
+            {
+                "latitude": 40.7675025,
+                "longitude": -74.0327056
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c257872910b53f%3A0x28e41d7dc8533b73%218m2%213d40.7675025%214d-74.0327056&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4,
+            "reviews": 138,
+            "price": "$",
+            "type": "Peruvian restaurant",
+            "address": "2317 Bergenline Ave # 21, Union City, NJ 07087",
+            "hours": "Open until 9:00 PM",
+            "phone": "(201) 223-0066",
+            "website": "http://www.kikirikirestaurant.com/",
+            "description": "Peruvian-style rotisserie chicken. Casual, family-run Peruvian eatery serving up rotisserie chicken, plus pork ribs & sides.",
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 13,
+            "title": "Norte Chico",
+            "data_id": "0x89c25826523f02e7:0xcea43134e44910d3",
+            "gps_coordinates":
+            {
+                "latitude": 40.7731352,
+                "longitude": -74.0267855
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c25826523f02e7%3A0xcea43134e44910d3%218m2%213d40.7731352%214d-74.0267855&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.2,
+            "reviews": 157,
+            "type": "Peruvian restaurant",
+            "address": "3504 New York Ave, Union City, NJ 07087",
+            "hours": "Open until 8:00 PM",
+            "phone": "(201) 751-4155",
+            "website": "http://www.nortechicorestaurant.com/",
+            "service_options":
+            {
+                "dine_in": true,
+                "takeout": true,
+                "delivery": true
+            }
+            ,
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 14,
+            "title": "Kikiriki",
+            "data_id": "0x89c2576a7a480d47:0xd34fb0bc84e8fe7a",
+            "gps_coordinates":
+            {
+                "latitude": 40.7453163,
+                "longitude": -74.05005109999999
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c2576a7a480d47%3A0xd34fb0bc84e8fe7a%218m2%213d40.7453163%214d-74.05005109999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4,
+            "reviews": 165,
+            "price": "$",
+            "type": "Peruvian restaurant",
+            "address": "301 Central Ave, Jersey City, NJ 07307",
+            "hours": "Open until 8:00 PM",
+            "phone": "(201) 222-5454",
+            "website": "http://www.kikirikirestaurant.com/",
+            "description": "Peruvian-style rotisserie chicken. Casual, family-run Peruvian eatery serving up rotisserie chicken, plus pork ribs & sides.",
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 15,
+            "title": "La Canasta Peruvian Restaurant",
+            "data_id": "0x89c25827a2b7abe1:0x1587b7ceaf7a9da4",
+            "gps_coordinates":
+            {
+                "latitude": 40.7733031,
+                "longitude": -74.0284619
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c25827a2b7abe1%3A0x1587b7ceaf7a9da4%218m2%213d40.7733031%214d-74.0284619&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 3.7,
+            "reviews": 201,
+            "price": "$",
+            "type": "Peruvian restaurant",
+            "address": "3409 Bergenline Ave, Union City, NJ 07087",
+            "hours": "Open until 10:00 PM",
+            "phone": "(201) 766-2250",
+            "website": "http://lacanasta.yolasite.com/",
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 16,
+            "title": "Cevichelsea",
+            "data_id": "0x89c259089e54b943:0x8aef43f220b1da68",
+            "gps_coordinates":
+            {
+                "latitude": 40.7409959,
+                "longitude": -74.0046301
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c259089e54b943%3A0x8aef43f220b1da68%218m2%213d40.7409959%214d-74.0046301&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 3.7,
+            "reviews": 6,
+            "type": "Peruvian restaurant",
+            "address": "353 W 14th St, New York, NY 10014",
+            "hours": "Open until 8:00 PM",
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 17,
+            "title": "Arriba Peru",
+            "data_id": "0x89c25819f262b967:0xc00aa5eccf8346b0",
+            "gps_coordinates":
+            {
+                "latitude": 40.784404599999995,
+                "longitude": -74.0195273
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c25819f262b967%3A0xc00aa5eccf8346b0%218m2%213d40.784404599999995%214d-74.0195273&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.1,
+            "reviews": 120,
+            "type": "Peruvian restaurant",
+            "address": "5218 Bergenline Ave, West New York, NJ 07093",
+            "hours": "Open until 10:00 PM",
+            "phone": "(201) 583-1616",
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 18,
+            "title": "Chirp",
+            "data_id": "0x89c2592046302c05:0x822bc813d134b0f8",
+            "gps_coordinates":
+            {
+                "latitude": 40.7533793,
+                "longitude": -73.99588039999999
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c2592046302c05%3A0x822bc813d134b0f8%218m2%213d40.7533793%214d-73.99588039999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.5,
+            "reviews": 159,
+            "type": "Peruvian restaurant",
+            "address": "369 W 34th St, New York, NY 10001",
+            "hours": "Open until 10:00 PM",
+            "phone": "(646) 858-1788",
+            "website": "http://www.chirpnyc.com/",
+            "description": "Fast-casual for Peruvian poultry dishes. Modern, counter-serve pick dishing out Peruvian rotisserie chicken, soups, rice bowls & sandwiches.",
+            "service_options":
+            {
+                "dine_in": true,
+                "curbside_pickup": true,
+                "no_contact_delivery": true
+            }
+            ,
+            "editorial_reviews":
+            {
+                "summary": "20 Standout Fast-Casual Restaurants of Midtown Manhattan",
+                "link": "https://ny.eater.com/maps/fast-casual-restaurants-midtown-manhattan"
+            }
+            ,
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 19,
+            "title": "El Nuevo Sol",
+            "data_id": "0x89c2583d5f0d8291:0x9252a9da33abdab3",
+            "gps_coordinates":
+            {
+                "latitude": 40.7801774,
+                "longitude": -74.0174071
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c2583d5f0d8291%3A0x9252a9da33abdab3%218m2%213d40.7801774%214d-74.0174071&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.3,
+            "reviews": 163,
+            "price": "$",
+            "type": "Peruvian restaurant",
+            "address": "120-152 48th St, Union City, NJ 07087",
+            "hours": "Open until 10:00 PM",
+            "phone": "(201) 330-1091",
+            "thumbnail":"" 
+        }
+        ,
+        {
+            "position": 20,
+            "title": "Sabor Peruano",
+            "data_id": "0x89c25819bd7ae5d3:0xbdc6d386eb2fe7c9",
+            "gps_coordinates":
+            {
+                "latitude": 40.7837797,
+                "longitude": -74.0203726
+            }
+            ,
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c25819bd7ae5d3%3A0xbdc6d386eb2fe7c9%218m2%213d40.7837797%214d-74.0203726&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.2,
+            "reviews": 289,
+            "price": "$",
+            "type": "Peruvian restaurant",
+            "address": "5119 Bergenline Ave, West New York, NJ 07093",
+            "hours": "Open until 2:00 AM",
+            "phone": "(201) 863-8777",
+            "thumbnail":"" 
+        }
+    ]
+}
